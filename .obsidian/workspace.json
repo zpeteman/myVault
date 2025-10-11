@@ -169,8 +169,10 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "a72ac7b8b0252d7f",
+  "active": "767649b99469b444",
   "lastOpenFiles": [
+    "LICENSE",
+    "README.md",
     "school/s3/probability_and_statistics/home.md",
     "school/s3/probability_and_statistics/Notes.md",
     "school/s3/probability_and_statistics/Estimation.md",
@@ -198,8 +200,6 @@
     "school/s2/cs_II",
     "school/s2/optics/Lens.md",
     "school/s2/optics/Centered Optical Systems.md",
-    "school/s2/optics/Spherical Mirrors.md",
-    "school/s2/electrostatic and magnetic/complement.md",
     "school/s2/optics",
     "school/s2/electrostatic and magnetic",
     "school/s2/analysis_II_III",
