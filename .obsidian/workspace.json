@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557.5
+    "width": 557.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +169,7 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "3dee16b6207b94a3",
+  "active": "a72ac7b8b0252d7f",
   "lastOpenFiles": [
     "school/s3/probability_and_statistics/home.md",
     "school/s3/probability_and_statistics/Notes.md",
