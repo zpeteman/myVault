@@ -1,0 +1,2 @@
+- **digital signal** are **analog signal** and goes from one (on/high) to zero (off/low)
+- 
