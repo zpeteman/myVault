@@ -6,4 +6,4 @@ aliases:
 
 -  [[complements|Chapter_0]].
 - [[Diagonalization and Bidiagonalization|Chapter_I]].
-- 
+- [[Endomorphisms and Minimal Polynomials|chapter_II]].

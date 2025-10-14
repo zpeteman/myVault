@@ -4,16 +4,16 @@
 
 ---
 ## 📐 Equations & Concepts
-#### "section name":
+#### section name:
 - **subsection:**
-	'content'
+	content
 	- **sub sub section:**
-		'content'
+		content
 - **sebsection2:**
 ....
 
 ---
 ## 📝 Notes
-- "note 1"
-- "note 2"
+- note 1
+- note 2
 - ...
