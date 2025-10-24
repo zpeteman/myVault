@@ -74,40 +74,25 @@ Where:
 - $a_e(M/R) = a(O'/R) + \frac{d\omega_{R'/R}}{dt} \wedge O'M + \omega_{R'/R} \wedge (\omega_{R'/R} \wedge O'M)$
 - $a_c(M/R) = 2\omega_{R'/R} \wedge V(M \in S/R')$
 
----
-
-### Section 6: Kinetic Energy Theorem
-
-#### Power
-
+#### Kinetic Energy Theorem
+- **Power**
 $$P(S/R) = (\tau_v(S/R); \tau_F^{ext}(S/R))$$ $$P(S/R) = F \cdot V(A \in S/R) + \omega_{S/R} \cdot M(A; S/R)$$
 
-- Internal forces do no work: $P^{int}(S/R) = 0$
+	- Internal forces do no work: $P^{int}(S/R) = 0$
 
-#### Work
-
-- **Elementary work:** $$dW(t; S/R) = P(t; S/R)dt$$
+- **Work**
+	- **Elementary work:** $$dW(t; S/R) = P(t; S/R)dt$$
     
-- **Work between $t_i$ and $t_f$:** $$W(t_i, t_f; S/R) = \int_{t_i}^{t_f} P(t; S/R)dt$$
-    
-
-#### Kinetic Energy Theorem (Galilean Frame)
-
+	- **Work between $t_i$ and $t_f$:** $$W(t_i, t_f; S/R) = \int_{t_i}^{t_f} P(t; S/R)dt$$
+- **Kinetic Energy Theorem (Galilean Frame)**
 $$W(t_i, t_f; S/R) = E_c(t_f; S/R) - E_c(t_i; S/R)$$
-
-Or equivalently: $$(\tau_F^{ext}, \tau_v) = \frac{d}{dt}(E_c(t; S/R))$$
-
-#### Perfect Connections (No Energy Loss)
-
-- **Pivot Connection (Rotation about axis (O, Z₀)):** Perfect if: $Z_0 \cdot M(A; S/R_0) = 0$ (Moment of reaction forces perpendicular to rotation axis)
-    
-- **Spherical Connection (Rotation about point O):** Perfect if: $M(O; S/R_0) = 0$ (Moment of reaction forces is zero)
-    
-- **Sliding Connection (Translation along axis (O, Y₀)):** Perfect if: $R(S_0 \to S) \cdot V(B \in S/R_0) = 0$ (Reaction force perpendicular to sliding axis)
-    
+	Or equivalently: $$(\tau_F^{ext}, \tau_v) = \frac{d}{dt}(E_c(t; S/R))$$
+- **Perfect Connections (No Energy Loss)**
+	- **Pivot Connection (Rotation about axis (O, Z₀)):** Perfect if: $Z_0 \cdot M(A; S/R_0) = 0$ (Moment of reaction forces perpendicular to rotation axis)
+	- **Spherical Connection (Rotation about point O):** Perfect if: $M(O; S/R_0) = 0$ (Moment of reaction forces is zero)
+	- **Sliding Connection (Translation along axis (O, Y₀)):** Perfect if: $R(S_0 \to S) \cdot V(B \in S/R_0) = 0$ (Reaction force perpendicular to sliding axis)
 
 ---
-
 ## 📝 Notes
 
 - **Composite solids:** For $S = S_1 \cup S_2$ with $S_1 \cap S_2 = \emptyset$: all quantities (P, σ, E_c, τ) are additive.
