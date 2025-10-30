@@ -6,3 +6,5 @@ aliases:
 
 - [[Numerical Series|Chapter_I]].
 - [[school/s3/analysis_4/Sequences and Series of Functions|Chapitre_II]].
+- [[power series|Chapter_III]].
+- [[Fourier's series|Chapter_IV]].
