@@ -57,7 +57,9 @@ where $\alpha$ is a real parameter.
 
 #### Vector Fields
 - **Definition:**
-	A vector field $\vec{U}$ is a function that assigns to each point $P$ in an affine 3D space $\xi_3$ a vector $\vec{U}(P)$ in a 3-dimensional vector space $E_3$: $$ \vec{U}: \begin{cases} \xi_3 \to E_3 \\ P \mapsto \vec{U}(P) \end{cases} $$ - $\xi_3$ is the space of points. - $E_3$ is the associated 3D vector space (the space of free vectors).
+	A vector field $\vec{U}$ is a function that assigns to each point $P$ in an affine 3D space $\xi_3$ a vector $\vec{U}(P)$ in a 3-dimensional vector space $E_3$: $$ \vec{U}: \begin{cases} \xi_3 \to E_3 \\ P \mapsto \vec{U}(P) \end{cases} $$
+	- $\xi_3$ is the space of points. 
+	- $E_3$ is the associated 3D vector space (the space of free vectors).
 	- **Uniform Vector Field:**
 		A vector field is **uniform** if: $$ \vec{U}(P) = \vec{U}(P_0) $$ for every point $P$.
 	- **Affine Vector Field:**

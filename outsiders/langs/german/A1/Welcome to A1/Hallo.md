@@ -1,0 +1,25 @@
+- Tasche : scarf
+- Schön : beautiful
+- entschuldigung : excuse me 
+- nicht so gut : not so good
+- sehr gut : really good
+- Beispiel : example
+- auch : also
+- herr oder frau : Mr. or Mrs.
+- Zentrum : centre 
+- bitte : please
+- konzert : consert 
+- kino : cinema
+- Flughafen : airport
+- Buro :  office
+- zusammen : together
+- kaffee : coffee
+- Kultur : culture
+- die banken : the banks
+
+- Wo ist Nico? : where is Nico ?
+- Mit wen spricht  Nico ? : with who talked nico ?
+- Was hörst du ? : what do u hear ?
+- Wie geht es Ihnen ? : how r u doing ? (formal)
+- guten abend : good evening
+- kein Problem : no problem
