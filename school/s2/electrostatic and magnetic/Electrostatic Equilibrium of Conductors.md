@@ -2,7 +2,6 @@
 aliases:
   - chapter_IV
 ---
-
 ## 📚 Course Structure
 - Section 1: **Electrostatic Equilibrium of Conductors**
 - Section 2: **Multiple Conductors & Influence**
