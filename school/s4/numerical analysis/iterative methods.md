@@ -1,7 +1,11 @@
+---
+aliases:
+  - Chapter_II
+---
 ## 📚 Course Structure
 - Section 1: **section name** 
-- Section 2:
-
+- Section 2: 
+ 
 ---
 ## 📐 Equations & Concepts
 #### section name:
@@ -11,7 +15,7 @@
 		content
 - **sebsection2:**
 ....
-
+ 
 ---
 ## 📝 Notes
 - note 1
